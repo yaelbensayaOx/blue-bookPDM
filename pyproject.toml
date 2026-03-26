@@ -11,7 +11,7 @@ dependencies = [
     "gitdb2",
     "mkdocs-git-revision-date-localized-plugin",
     "mkdocs-minify-plugin",
-    "mkdocs-material",
+    "mkdocs-material == 9.7.6",
     "mkdocs-section-index",
     "pymdown-extensions",
     "mkdocs-newsletter",
